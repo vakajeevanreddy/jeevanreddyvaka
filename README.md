@@ -1,44 +1,53 @@
-<!-- Phase 1: Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeevanreddyvaka/jeevanreddyvaka/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeevanreddyvaka/jeevanreddyvaka/main/light.svg">
-  <img alt="Vaka Jeevan Reddy" src="https://raw.githubusercontent.com/jeevanreddyvaka/jeevanreddyvaka/main/light.svg">
-</picture>
+# 👋 Hi, I'm Vaka Jeevan Reddy
 
-<br/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vakajeevanreddy&color=brightgreen" alt="Profile Views" />
+</p>
 
-<!-- Phase 2: Stats Cards -->
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=jeevanreddyvaka&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
-  <br/>
-  <img width="49%" src="https://jeevanreddyvaka.vercel.app/api?username=jeevanreddyvaka&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-  <img width="49%" src="https://jeevanreddyvaka.vercel.app/api/top-langs/?username=jeevanreddyvaka&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
-</div>
+AI/ML Engineer with 2+ years of experience building production-grade LLM agents, RAG pipelines, and scalable ML systems[cite: 1]. Passionate about turning complex data into intuitive, high-performance applications.
 
-<br/>
+---
 
-<!-- Phase 3: Contribution Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeevanreddyvaka/jeevanreddyvaka/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeevanreddyvaka/jeevanreddyvaka/output/github-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/jeevanreddyvaka/jeevanreddyvaka/output/github-snake.svg" />
-  </picture>
-</div>
+## 🛠️ Technical Skills
 
-<br/>
+* **Programming Languages:** Python, Apex, HTML/CSS
+* **AI & Machine Learning:** LangChain, LangGraph, LLM Agents, RAG Pipelines, Scikit-learn, LightGBM, Pandas, NumPy
+* **Cloud & CRM:** Salesforce Administration, Lightning Web Components (LWC), System Integrations
+* **Tools & Databases:** Git, GitHub, Joblib
 
-<!-- Phase 4: Social Badges -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/vaka-jeevan-reddy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/jeevanreddy_vaka">
-    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:vakajeevanreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-  </a>
-</div>
+---
+
+## 💼 Professional Experience
+
+### **AI/ML Engineer** | *2024 – Present*
+* Designing and implementing scalable machine learning workflows, predictive data models, and LLM-driven applications.
+* Building advanced RAG pipelines and intelligent agent architectures using LangChain and LangGraph.
+
+### **Salesforce Developer & Administrator** | *2025 – Present*
+* Engineered backend logic and billing systems utilizing Salesforce Lightning Web Components (LWC) and Apex development.
+* Handled complex system integrations, price book configurations, and automated PDF invoice generations.
+
+---
+
+## 🚀 Featured Projects
+
+* **[SkC Jeevan Tutor](https://github.com/vakajeevanreddy/SkC_Jeevan_Tutor)**[cite: 1]
+  * *Description:* An interactive web application designed to provide structured Python learning tutorials with a user-friendly HTML interface[cite: 1].
+* **Customer Health Care System**
+  * *Description:* Built backend logic and data workflows for tracking customer health metrics and support data.
+* **Bus Demand Prediction Model**
+  * *Description:* Developed robust feature engineering scripts utilizing LightGBM and Random Forest regressors for accurate transit demand forecasting.
+
+---
+
+## 🌐 Connect With Me
+
+* **GitHub:** [github.com/vakajeevanreddy](https://github.com/vakajeevanreddy)[cite: 1]
+* **LinkedIn:** [Your LinkedIn Profile URL]
+* **Email:** [Your Email Address]
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vakajeevanreddy&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
